@@ -15,5 +15,24 @@
 ### :hammer_and_wrench: Изученные технологии на данный момент:
 
 <div>
-  
+  <img src="./Simple icons/HTML5.png" title="HTML5" alt="HTML5" width="40" height="40">
+  <img src="./Simple icons/CSS3.png" title="CSS3" alt="CSS3" width="40" height="40">
+  <img src="./Simple icons/SASS.png" title="SASS" alt="SASS" width="40" height="40">
+  <img src="./Simple icons/Figma.png" title="Figma" alt="Figma" width="40" height="40">
+  <img src="./Simple icons/JavaScript.png" title="JavaScript" alt="JavaScript" width="40" height="40">
+  <img src="./Simple icons/React.png" title="React" alt="React" width="40" height="40">
+  <img src="./Simple icons/Redux.png" title="Redux" alt="Redux" width="40" height="40">
+  <img src="./Simple icons/NodeJS.png" title="NodeJS" alt="NodeJS" width="40" height="40">
+  <img src="./Simple icons/NPM.png" title="Npm" alt="Npm" width="40" height="40">
+  <img src="./Simple icons/Git.png" title="Git" alt="Git" width="40" height="40">
+  <img src="./Simple icons/GitHub.png" title="GitHub" alt="GitHub" width="40" height="40">
+  <img src="./Simple icons/Exel.png" title="Exel" alt="Exel" width="40" height="40">
 </div>
+
+---
+
+### :fire: Моя статистика:
+[![codewars](https://www.codewars.com/users/EukleidesRUS/badges/large)](https://www.codewars.com/users/EukleidesRUS)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EukleidesRUS&show_icons=true&theme=vision-friendly-dark)
+# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EukleidesRUS&theme=dark&background=000000)](https://git.io/streak-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EukleidesRUS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

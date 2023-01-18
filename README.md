@@ -32,6 +32,4 @@
 ---
 
 ### :fire: Моя статистика:
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EukleidesRuS&show_icons=true&theme=radical)
 # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EukleidesRUS&theme=dark&background=000000)](https://git.io/streak-stats)
-# [![Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EukleidesRuS)](https://github.com/anuraghazra/github-readme-stats)

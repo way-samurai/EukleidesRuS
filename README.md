@@ -1,7 +1,15 @@
-<img src="./header.png">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=20000&color=4672AE&center=true&multiline=true&repeat=false&width=360&lines=Web+Developer" alt="Typing SVG" align="middle"/><img src="https://komarev.com/ghpvc/?username=EukleidesRUS&style=flat-square&color=green" alt="" align="middle"/></a>
-
+<div id="header" align="center" >
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116b53a1c62d3f90bd0dfa2656365f99f28a0cf470&rid=giphy.gif&ct=g" width="700"/>
+  <div id="badge">
+    <a href="https://t.me/Code_Butcher">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram badge">
+    </a>
+   <a href="mailto:GoncharovNVCHK@yandex.ru">
+      <img src="https://img.shields.io/badge/GoncharovNVCHK%40yandex.ru-blue?style=for-the-badge&logo=Mail">
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=EukleidesRUS&style=flat-square&color=green" alt="" align="middle"/>
+</div>
 ---
 
 ### :man_technologist: Обо мне:
@@ -34,3 +42,6 @@
 
 ### :fire: Моя статистика:
 # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EukleidesRUS&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EukleidesRUS&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=EukleidesRUS&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=gotham)

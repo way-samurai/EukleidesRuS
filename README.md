@@ -22,26 +22,19 @@
 ---
 
 ### :hammer_and_wrench: Изученные технологии на данный момент:
-
-<div>
-  <img src="./Simple icons/HTML5.png" title="HTML5" alt="HTML5" width="40" height="40">
-  <img src="./Simple icons/CSS3.png" title="CSS3" alt="CSS3" width="40" height="40">
-  <img src="./Simple icons/SASS.png" title="SASS" alt="SASS" width="40" height="40">
-  <img src="./Simple icons/Figma.png" title="Figma" alt="Figma" width="40" height="40">
-  <img src="./Simple icons/JavaScript.png" title="JavaScript" alt="JavaScript" width="40" height="40">
-  <img src="./Simple icons/React.png" title="React" alt="React" width="40" height="40">
-  <img src="./Simple icons/Redux.png" title="Redux" alt="Redux" width="40" height="40">
-  <img src="./Simple icons/NodeJS.png" title="NodeJS" alt="NodeJS" width="40" height="40">
-  <img src="./Simple icons/NPM.png" title="Npm" alt="Npm" width="40" height="40">
-  <img src="./Simple icons/Git.png" title="Git" alt="Git" width="40" height="40">
-  <img src="./Simple icons/GitHub.png" title="GitHub" alt="GitHub" width="40" height="40">
-  <img src="./Simple icons/Exel.png" title="Exel" alt="Exel" width="40" height="40">
-</div>
+  [![React](https://img.shields.io/badge/React-blueviolet?&style=for-the-badge&logo=react&logoColor=white)]()
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+  [![Redux](https://img.shields.io/badge/Redux-blueviolet?&style=for-the-badge&logo=redux&logoColor=white)]()
+  [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+  [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+  [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]()
+  [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 
 ---
 
 ### :fire: Моя статистика:
-# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EukleidesRUS&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EukleidesRUS&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=EukleidesRUS&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=gotham)

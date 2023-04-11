@@ -35,5 +35,5 @@
 ---
 
 ### :fire: Моя статистика:
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EukleidesRUS&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-![stats](https://github-readme-stats.vercel.app/api?username=EukleidesRUS&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=gotham)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=way-samurai&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=way-samurai&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=gotham)

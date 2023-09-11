@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-- :man_student:Учусь на Full-Stack Web Developer в Яндекс.Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.
+- :man_student: Закончил обучение на Full-Stack Web Developer в Яндекс.Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.
 - :clock9: В свободное от учебы время ищу интересные проекты, которые могу реализовать.
 - :triangular_ruler: В данный момент, успешно совмещаю учебу с работой по специальности - инженер проектировщик :construction_worker:. Хочу полностью перейти и погрузиться в веб-разработку :rocket:.
 - :zap: Имею большой опыт работы в команде. Легко найду общий язык с кем угодно! 
